@@ -26,6 +26,3 @@
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c6a2941877bfa9f1e29bb21607af8ba21f30deca9d35316e0aea27d2082d7d67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d456e746974792532304672616d65776f726b2d696e666f726d6174696f6e616c"><img alt="Entityframework" src="https://camo.githubusercontent.com/c6a2941877bfa9f1e29bb21607af8ba21f30deca9d35316e0aea27d2082d7d67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d456e746974792532304672616d65776f726b2d696e666f726d6174696f6e616c" data-canonical-src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
-### Software and tools
-
-photshop
