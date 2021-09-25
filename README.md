@@ -2,7 +2,7 @@
 
 ### A Full Stack Developer From Egypt
 
-- 🔭 I'm currently working on an Asp.net core Restaurant project
+- 🔭 I'm currently working on an Asp.net core E-Commerce Project
 - 🌱 I’m currently learning Asp.net Core Mvc
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: belalmohamed5350@gmail.com
