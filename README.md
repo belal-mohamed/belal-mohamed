@@ -3,10 +3,9 @@
 ### A Full Stack Developer From Egypt
 
 - 🔭 I'm currently working on an Asp.net core E-Commerce Project
-- 🌱 I’m currently learning Asp.net Core Mvc
-- 💬 Ask me about Frontend Development
+- 💬 Ask me about .Net Core
 - 📫 How to reach me: belalmohamed5350@gmail.com
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1GFfQAwAKGcJ-tw1ZoCSethjWUK2q6PJ7/view?usp=sharing"> My Resume  </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1e-CmoxZp-10-kEZRIVEpGQn-YOswAzPU/view?usp=sharing"> My Resume  </a>
 
 ### Frontend Stack
 
