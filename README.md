@@ -1,6 +1,6 @@
 # Belal Mohamed - Full Stack Developer
 
-Hey, folks! 👋 I'm Belal Mohamed, a passionate Full Stack Developer with 4 years of experience in building robust web applications. Proficient in .NET Core, C#, EF Core, SQL Server, Angular, and JavaScript, I have a strong understanding of software architecture, design patterns, and clean code principles. I’m enthusiastic about staying updated with the latest technologies and delivering high-quality solutions.
+Hey, folks! 👋 I'm Belal Mohamed, a passionate Full Stack Developer with 6 years of experience in building robust web applications. Proficient in .NET Core, C#, EF Core, SQL Server, Angular, and JavaScript, I have a strong understanding of software architecture, design patterns, and clean code principles. I’m enthusiastic about staying updated with the latest technologies and delivering high-quality solutions.
 
 ## 🛠️ Tech Stack
 
